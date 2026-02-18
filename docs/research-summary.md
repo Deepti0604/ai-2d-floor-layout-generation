@@ -1,1 +1,8 @@
-
+- Categorize tools into:
+  - Generative image tools
+  - CAD tools
+  - AI-based layout automation
+  - SaaS floor planners
+- Compare cost vs scalability
+- Mention why GPT-based approach failed
+- Mention spatial reasoning limitations
